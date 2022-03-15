@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Bintu recipe</title>
+        <meta charset="utf-8">
+        <style> body{background-color: rgb(103, 245, 209);}
+        h1{color:rgb(212, 4, 118);}
+        </style>
+    </head>
+    <body>
+              <h1>Bintu's Recipe Book</h1>
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#yam">Recipe for:<strong><em> Nigerian Yam porridge</em></strong></a></li>
+            </ol>
+            <ul>
+            <li><a href="#about"> About the dish</a></li>
+                <li><a href="#ingredients">Ingredients and quantity to be used</a></li>
+                <li><a href="#steps"> Steps for preparation</a></li>
+                <li><a href="#directions">Cooking directions</a></li>
+                <li><a href="#link">Source link</a> </li>
+                
+            </ul>
+        
+        <h2 id="yam"> Recipe 1:<strong> Nigerian porridge yam</strong></h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Yam_pottage.jpg" alt="picture of yam porridge" width="140">
+        <p> Yam Porridge can also be referred to as yam soup. It is mainly yam cooked with ingredients and the resulting dish contains some soupy liquid. It is usually not cooked with added vegetables but I always add a little to add some green colour to the meal </p>
+        
+        <table>
+            <thead>
+                <tr id="ingredients">
+                <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td> Yam</td>
+                <td> 1kg</td> 
+            </tr>
+            <tr>
+                <td> Palm oil</td>
+                <td> To satisfaction</td> 
+            </tr>
+            <tr>
+                <td> Smoked Fish </td>
+                <td> 1 </td>
+                
+            </tr>
+            <tr>
+                <td> Grounded Crayfish </td>
+                <td> 1 tablespoon</td>  
+            </tr>
+            <tr>
+                <td> Medium Onion</td>
+                <td> 1</td> 
+            </tr>
+            <tr>
+                <td> Fresh Green Vegetable</td>
+                
+            </tr>
+            <tr>
+             <td> Chilli Pepper</td>
+             <td> To taste</td> 
+            </tr>
+            <tr>
+                <td> Salt</td>
+                <td> To taste</td> 
+            </tr>
+            <tr>
+                <td> Big Stock Cubes</td>
+                <td> 2</td> 
+            </tr>
+            </tbody>
+        </table>
+      <h3 id="steps"><strong> Steps For Preparation</strong></h3>
+        <p><strong>Step 1:</strong> Peel and cut the yam tuber into medium sizes. Wash the yam cubes and place in a sizeable pot.<br>
+        <strong> Step 2:</strong>Wash and cut the onions into tiny pieces. Grind or blend the chilli pepper. Set these aside.<br>
+        </p>
+      <h4 id="directions"> <strong> Cooking Directions</strong></h4>
+        
+            <ul>
+                <li> Pour enough water to cover the yam cubes and start cooking at medium to high heat. If you are using dry fish, add it now.</li>
+                <li>When the yams have got a good boil, add the onions, ground crayfish, pepper, stock cubes, palm oil and the smoked fish.</li>
+                <li> Cover the pot and continue cooking till the yam is done.</li>
+                <li> Add salt to taste and stir very well. Cook at high heat for about 5 minutes.</li>
+                <li> Add the green vegetable, stir and leave to stand for about 5 minutes then serve.</li>
+            </ul>
+        
+        
+    <p id="link"><em>Source <a targret="-blank" href="https://www.allnigerianrecipes.com/yam/yam-porridge/"> From allnigerianrecipes</a></em></p>
+    
+    </body>
+</html>
